@@ -32,6 +32,7 @@ Considering all criteria of average maths score, average reading scores, passing
 The reason of academic result differences could be because the independent schools' fund was contributed by parents which helped hire better teachers and invest in learning processes. 
 
 Conclusion 4: Spending per student trend
+
 More spending per student (630 to 680 dollars) were recorded for the schools with lower academic results while less than $630 per student was the amount funded to the top academic school. 
 
 
