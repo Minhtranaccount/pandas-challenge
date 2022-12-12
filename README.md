@@ -1,5 +1,6 @@
 # pandas-challenge 
-#Analysis Summary
+# Analysis Summary
+
 The report is based on joined information of 15 local schools in one area and the test results of all students within the schools. By joining the two datasets, the analysis provides insights of the schools in relation with their students' test results. The reports analyse the following main points.
   1.	The snapshot of all schools in the area including total school, total student, total budget, average scores of maths, reading and the passing rates of maths, reading and the overall passing which combines the two subjects.
   2.	The summary of each school includes school type, total student, total budget, budget per student, test results and passing percentage.
