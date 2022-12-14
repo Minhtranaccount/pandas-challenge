@@ -14,7 +14,7 @@ Conclusion 1: Public schools had more students than independent schools.
 
 From the school summary table, it was noted that the government schools tended to have higher student numbers. The biggest student numbers of 4976, 4761, 4635 and 3999 belonged to four government schools Bailey High, Johnson High, Hernandez High and Rodriguez High School.
 
-The smallest sized schools were Holden High (427 students), Pena High (962 students) and Griffin High (1468 students). They were all private schools.
+The smallest sized schools were Holden High (427 students), Pena High (962 students) and Griffin High (1468 students). They were all independent schools.
 
 
 Conclusion 2: The smaller the school size was, the better academic result was.
@@ -36,5 +36,5 @@ Conclusion 4: Spending per student trend
 More spending per student (630 to 680 dollars) were recorded for the schools with lower academic results while less than $630 per student was the amount funded to the top academic school. 
 
 
-To summarise, the public schools had more students, and lower testing scores than the independent. There was more funding towards the bottom schools. Hopefully, this will assist them to improve their learning facilities and increased academic results in the future.
+To summarise, the public schools had more students, and lower testing scores than the independent. There was more funding towards the bottom schools. Hopefully, this will assist them to improve their learning facilities and increase academic results in the future.
 
